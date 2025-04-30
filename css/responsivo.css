@@ -1,0 +1,113 @@
+@media(max-width: 450px) {
+    .card {
+        width: 334px;
+        height: 452px;
+    }
+
+    .card img {
+        width: auto;
+        height: auto;
+    }
+
+    .card .informacoes .tipo {
+        font-size: 12px;
+    }
+
+    .card .informacoes .data-da-publicacao {
+        font-size: 12px;
+    }
+
+    .card .informacoes .titulo-do-card {
+        font-size: 20px;
+    }
+
+    .card .informacoes .sobre {
+        font-size: 12px;
+    }
+
+    .autor img.foto-do-autor {
+        width: 30px;
+        height: 30px;
+        margin-right: 5.5px;
+    }
+
+    .nome-autor {
+        font-size: 12px;
+    }
+}
+
+@media(max-width: 375px) {
+    .card {
+        width: 284px;
+        height: 405px;
+    }
+
+    .card img {
+        width: auto;
+        height: auto;
+    }
+
+    .card .informacoes .tipo {
+        font-size: 11px;
+    }
+
+    .card .informacoes .data-da-publicacao {
+        font-size: 11px;
+    }
+
+    .card .informacoes .titulo-do-card {
+        font-size: 18px;
+    }
+
+    .card .informacoes .sobre {
+        font-size: 11px;
+    }
+
+    .autor img.foto-do-autor {
+        width: 28px;
+        height: 28px;
+        margin-right: 5.5px;
+    }
+
+    .nome-autor {
+        font-size: 11px;
+    }
+}
+
+@media(max-width: 320px) {
+    .card {
+        width: 234px;
+        height: 370px;
+    }
+
+    .card img {
+        width: auto;
+        height: auto;
+    }
+
+    .card .informacoes .tipo {
+        font-size: 11px;
+    }
+
+    .card .informacoes .data-da-publicacao {
+        font-size: 11px;
+    }
+
+    .card .informacoes .titulo-do-card {
+        font-size: 15px;
+    }
+
+    .card .informacoes .sobre {
+        font-size: 11px;
+    }
+
+    .autor img.foto-do-autor {
+        width: 28px;
+        height: 28px;
+        margin-right: 5.5px;
+    }
+
+    .nome-autor {
+        font-size: 11px;
+    }
+}
